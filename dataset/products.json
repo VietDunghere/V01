@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Nike Running Shoes", "category": "shoes", "color": "black", "price": 120, "stock": 10, "description": "Black lightweight running shoes for daily training", "image": "images/nike_running_shoes.svg"},
+  {"id": 2, "name": "Adidas Running Shoes", "category": "shoes", "color": "blue", "price": 110, "stock": 8, "description": "Blue cushioned running shoes for road workouts", "image": "images/adidas_running_shoes.svg"},
+  {"id": 3, "name": "Black Casual Shoes", "category": "shoes", "color": "black", "price": 75, "stock": 12, "description": "Comfortable black casual shoes for everyday wear", "image": "images/black_casual_shoes.svg"},
+  {"id": 4, "name": "Brown Leather Bag", "category": "bags", "color": "brown", "price": 150, "stock": 5, "description": "Brown leather shoulder bag with inner pockets", "image": "images/brown_leather_bag.svg"},
+  {"id": 5, "name": "Gray Travel Backpack", "category": "bags", "color": "gray", "price": 85, "stock": 14, "description": "Spacious gray backpack for travel and commuting", "image": "images/gray_travel_backpack.svg"},
+  {"id": 6, "name": "White Cotton Shirt", "category": "clothing", "color": "white", "price": 35, "stock": 20, "description": "Breathable white cotton shirt for casual outfits", "image": "images/white_cotton_shirt.svg"},
+  {"id": 7, "name": "Red Winter Jacket", "category": "clothing", "color": "red", "price": 95, "stock": 7, "description": "Warm red winter jacket with a hood", "image": "images/red_winter_jacket.svg"},
+  {"id": 8, "name": "Silver Wrist Watch", "category": "accessories", "color": "silver", "price": 180, "stock": 6, "description": "Silver wrist watch with a classic dial", "image": "images/silver_wrist_watch.svg"},
+  {"id": 9, "name": "Wireless Headphones", "category": "electronics", "color": "black", "price": 65, "stock": 18, "description": "Black wireless headphones with soft ear cushions", "image": "images/wireless_headphones.svg"},
+  {"id": 10, "name": "Green Sport Sneakers", "category": "shoes", "color": "green", "price": 90, "stock": 9, "description": "Green sport sneakers with flexible soles", "image": "images/green_sport_sneakers.svg"}
+]
